@@ -1,5 +1,12 @@
 #### Hi there 👋
 
+## Skills
+<p align="middle">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,c,java,vscode,vim,git,github" />
+  </a>
+</p>
+
 <!--
 **CatAraujoo/CatAraujoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
